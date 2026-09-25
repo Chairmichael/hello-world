@@ -2,6 +2,6 @@
 
 // the famous helloworld program!
 int main() {
-  printf("Hello world!\n");
+  printf("FIZZ BUZZ!\n");
   return 0;
 }
